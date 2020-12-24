@@ -24,7 +24,7 @@ spec:
         #   value: "test"
         allowed_request_headers: ["foo1","authorization","foo34","bar43"]
         # authorization_request: 
-        #   allowed_headers: 
+        #   allowed_headers: # test
         #     patterns: 
         #     - exact: baz
         #     - prefix: x-
